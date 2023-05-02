@@ -1,0 +1,10 @@
+﻿  main.cpp
+  render.cpp
+d:\proj\все\1.4\gm\gm\render.cpp(10): warning C4101: texture: неиспользованная локальная переменная
+d:\proj\все\1.4\gm\gm\render.cpp(33): warning C4101: trans: неиспользованная локальная переменная
+d:\proj\все\1.4\gm\gm\render.cpp(20): warning C4101: vN: неиспользованная локальная переменная
+d:\proj\все\1.4\gm\gm\render.cpp(159): warning C4101: cosh: неиспользованная локальная переменная
+d:\proj\все\1.4\gm\gm\render.cpp(163): warning C4101: L2: неиспользованная локальная переменная
+d:\proj\все\1.4\gm\gm\render.cpp(163): warning C4101: L1: неиспользованная локальная переменная
+  Создание кода...
+  gm.vcxproj -> D:\proj\все\1.4\gm\Debug\gm.exe
